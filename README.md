@@ -1,4 +1,4 @@
-# AI Agent with LlamaIndex and Groq for a Event Management Project
+# AI Agent with LlamaIndex and Groq for an Event Management Project
 
 A comprehensive AI agent built with LlamaIndex, featuring Groq LLM, memory capabilities, and various tools.
 
